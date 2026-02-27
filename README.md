@@ -1,6 +1,6 @@
 # AIDRIN Prototype (AI Data Readiness Inspector)
 
-This repository now contains a working AIDRIN prototype focused on the scope from `ProjectDescription.md`:
+This repository contains a working AIDRIN prototype focused on the scope from [Project Description](https://ucsc-ospo.github.io/project/osre26/lbl/aidrin/):
 
 - support for additional file formats (**HDF5**, **Zarr**, **ROOT**), and
 - support for **custom data ingestion** mechanisms.
